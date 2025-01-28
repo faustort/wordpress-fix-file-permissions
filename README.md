@@ -45,14 +45,7 @@ The **WordPress Security Enhancement Script** is a powerful PHP tool designed to
 - **User Interaction:** Provides a seamless interface to select options and execute security enhancements without technical complexities.
 
 ### **Support the Developer**
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="business" value="UUD6YHZDT2F3U" />
-<input type="hidden" name="no_recurring" value="0" />
-<input type="hidden" name="item_name" value="Thanks for donating / Obrigado por doar / Gracias por donar" />
-<input type="hidden" name="currency_code" value="BRL" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
-</form>
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=UUD6YHZDT2F3U&no_recurring=0&item_name=Thanks+for+donating+%2F+Obrigado+por+doar+%2F+Gracias+por+donar&currency_code=BRL)
 
 ---
 
@@ -97,14 +90,7 @@ O **Script de Melhoria de Segurança para WordPress** é uma ferramenta PHP pode
 - **Interação do Usuário:** Fornece uma interface sem complicações para selecionar opções e executar melhorias de segurança sem complexidades técnicas.
 
 ### **Apoie o Desenvolvedor**
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="business" value="UUD6YHZDT2F3U" />
-<input type="hidden" name="no_recurring" value="0" />
-<input type="hidden" name="item_name" value="Thanks for donating / Obrigado por doar / Gracias por donar" />
-<input type="hidden" name="currency_code" value="BRL" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
-</form>
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=UUD6YHZDT2F3U&no_recurring=0&item_name=Thanks+for+donating+%2F+Obrigado+por+doar+%2F+Gracias+por+donar&currency_code=BRL)
 
 ---
 
@@ -149,30 +135,16 @@ El **Script de Mejora de Seguridad para WordPress** es una herramienta PHP poder
 - **Interacción del Usuario:** Proporciona una interfaz sencilla para seleccionar opciones y ejecutar mejoras de seguridad sin complicaciones técnicas.
 
 ### **Apoya al Desarrollador**
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="business" value="UUD6YHZDT2F3U" />
-<input type="hidden" name="no_recurring" value="0" />
-<input type="hidden" name="item_name" value="Thanks for donating / Obrigado por doar / Gracias por donar" />
-<input type="hidden" name="currency_code" value="BRL" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
-</form>
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=UUD6YHZDT2F3U&no_recurring=0&item_name=Thanks+for+donating+%2F+Obrigado+por+doar+%2F+Gracias+por+donar&currency_code=BRL)
 
 ---
 
 ## ☕️ **Support the Developer**
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="business" value="UUD6YHZDT2F3U" />
-<input type="hidden" name="no_recurring" value="0" />
-<input type="hidden" name="item_name" value="Thanks for donating / Obrigado por doar / Gracias por donar" />
-<input type="hidden" name="currency_code" value="BRL" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
-</form>
+If you found this script helpful and want to support further development, please consider donating via PayPal using the button above. Your support is greatly appreciated! ☕️
 
 ---
 
 ## 🔑 **Keywords**
-WordPress Security, PHP Script, .htaccess Management, File Permissions, Malware Protection, Website Security, Security Enhancements, Virus Protection, Secure WordPress, WordPress Safety, Security Script, WordPress Hardening, Protect WordPress, Web Security, Cybersecurity for WordPress, WordPress Firewall, Virus Protection for WordPress, WordPress Security Tools, Enhance WordPress Security, Secure Website, WordPress Protection, Security Enhancement Script, WordPress Malware Defense
+WordPress Security, PHP Script, .htaccess Management, File Permissions, Malware Protection, Website Security, Security Enhancements, Virus Protection, Secure WordPress, WordPress Safety, Security Script, WordPress Hardening, Protect WordPress, Web Security, Cybersecurity for WordPress, WordPress Firewall, Virus Protection for WordPress, WordPress Security Tools, Enhance WordPress Security, Secure Website, WordPress Protection, Security Enhancement Script, WordPress Malware Defense, Website Hardening, WordPress Security Solutions, Secure .htaccess, File Permission Security, WordPress Security Best Practices
 
